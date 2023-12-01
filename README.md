@@ -1,6 +1,7 @@
 # Global-Solution-edge
 
 Detecção de Bolsa de Soro - Arduino
+
 Este projeto consiste em um código para Arduino que utiliza um sensor de carga (strain gauge) para detectar o nível da bolsa de soro em um paciente. O sistema aciona LEDs indicativos e um buzzer para alertar quando a bolsa está cheia ou vazia.
 
 Componentes Necessários
